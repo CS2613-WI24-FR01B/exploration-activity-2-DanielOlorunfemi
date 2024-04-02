@@ -27,6 +27,8 @@ The script performs a basic statistical analysis on a dataset of test scores, in
 The output will also include a histogram visualizing the distribution of test scores.
 
 ## Visuals
+<img width="421" alt="image" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-2-DanielOlorunfemi/assets/156123223/6f7e3df7-42c9-4a6e-bd79-a58212a5f4ca">
+
 
 <img width="277" alt="image" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-2-DanielOlorunfemi/assets/156123223/ce2998cc-fc92-4687-88ef-e35060d6a71c">
 
