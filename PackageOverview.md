@@ -45,3 +45,5 @@ The experience with the `statistics` package has been overwhelmingly positive. I
 ## References
 
 - GNU Octave's official documentation and the Octave Forge website are primary references for information about the `statistics` package.
+
+- https://wiki.octave.org/Statistics_package
