@@ -29,4 +29,6 @@ The output will also include a histogram visualizing the distribution of test sc
 ## Visuals
 
 Consider including screenshots of the histogram produced by the program and any other relevant visual output.
+<img width="277" alt="image" src="https://github.com/CS2613-WI24-FR01B/exploration-activity-2-DanielOlorunfemi/assets/156123223/ce2998cc-fc92-4687-88ef-e35060d6a71c">
+
 
